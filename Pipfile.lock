@@ -1,19 +1,19 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a0e63f8a0d1e3df046dc19b3ffbaaedfa151afc12af5a5b960ae7393952f8679"
+            "sha256": "0ca839f23434417b5cb525f9e80a05b9c25129a9d056ca2ecf0dece8005a9e15"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
-            "implementation_version": "3.6.3",
+            "implementation_version": "0",
             "os_name": "nt",
             "platform_machine": "AMD64",
             "platform_python_implementation": "CPython",
-            "platform_release": "10",
+            "platform_release": "8",
             "platform_system": "Windows",
-            "platform_version": "10.0.16299",
-            "python_full_version": "3.6.3",
-            "python_version": "3.6",
+            "platform_version": "6.2.9200",
+            "python_full_version": "2.7.10",
+            "python_version": "2.7",
             "sys_platform": "win32"
         },
         "pipfile-spec": 6,
@@ -29,10 +29,10 @@
     "default": {
         "certifi": {
             "hashes": [
-                "sha256:54a07c09c586b0e4c619f02a5e94e36619da8e2b053e20f594348c0611803704",
-                "sha256:40523d2efb60523e113b44602298f0960e900388cf3bb6043f645cf57ea9e3f5"
+                "sha256:244be0d93b71e93fc0a0a479862051414d0e00e16435707e5bf5000f92e04694",
+                "sha256:5ec74291ca1136b40f0379e1128ff80e866597e4e2c1e755739a913bbc3613c0"
             ],
-            "version": "==2017.7.27.1"
+            "version": "==2017.11.5"
         },
         "chardet": {
             "hashes": [
@@ -47,6 +47,12 @@
                 "sha256:2c6a5de3089009e3da7c5dde64a141dbc8551d5b7f6cf4ed7c2568d0cc520a8f"
             ],
             "version": "==2.6"
+        },
+        "mysql-connector": {
+            "hashes": [
+                "sha256:d5b95b8de234873563855e288f0c9ef85b119c0a862287cbcee7d6654cf60467"
+            ],
+            "version": "==2.1.6"
         },
         "requests": {
             "hashes": [
