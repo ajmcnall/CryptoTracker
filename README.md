@@ -14,3 +14,6 @@ Must have a running mysql server
 If pipenv was used, run using "pipenv run python main.py"
 
 Otherwise "python main.py"
+
+#TODO
+-Implement storing data via mysql
